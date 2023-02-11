@@ -13,3 +13,15 @@ this is my final frt project.
 ![Screenshot (140)](https://user-images.githubusercontent.com/124521963/218242280-4dae51e4-dbd3-4ea6-b630-13fd73bcab7a.png)
 ![Screenshot (142)](https://user-images.githubusercontent.com/124521963/218242282-f07cd987-2293-4e03-a8d7-e07b055a9219.png)
 ![Screenshot (141)](https://user-images.githubusercontent.com/124521963/218242287-76502a44-658b-436e-8a5f-6ae842751871.png)
+
+AZURE technologies used for Project:
+>Static web apps
+>Health bot
+
+Features and Functionalities:
+>Interactive and responsive UI.
+>Has many graphical and visual innovative effects.
+>Have an aesthetically pleasing visual design and architecture.
+>Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
+>User can know about health information through this website.
+>Included the feedback Survey form to increase the scope of improvement.
